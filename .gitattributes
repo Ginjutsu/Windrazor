@@ -1,2 +1,4 @@
 Content/Levels/sethFore_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Levels/mauricioMidship_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Levels/persistentSky_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Levels/erobertsAft_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
